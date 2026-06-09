@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer · Data Scientist · Builder of things that actually work in production</b><br/>
-  Jersey City, NJ &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute (GPA - 3.82, May 2026)
+  Jersey City, NJ &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.89, May 2026)
 </p>
 
 <p align="center">
@@ -18,7 +18,41 @@
 
 I build **end-to-end AI systems** — from clean data pipelines to production-grade LLM evaluation frameworks. My work sits at the intersection of applied ML, GenAI, and reliable software engineering.
 
-I care about one thing most teams skip: **does it actually work reliably?** That question led me to build RagProbe, an adversarial evaluation framework for RAG systems. It's also why every project I ship includes quantified results, not just working code.
+I care about one thing most teams skip: **does it actually work reliably?** That question led me to build RagProbe — an adversarial evaluation framework for RAG systems. It's also why every project I ship includes quantified results, not just working code.
+
+---
+
+## 💼 Experience
+
+**🔬 AI/ML Engineer – Research** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *May 2025 – Sep 2025*
+> - Benchmarked regression, classification & LLM forecasting models on financial datasets — improved F1-score by **~12%** via cross-validated feature selection
+> - Built FAISS-based semantic search pipelines, improving retrieval precision by **~18%** across benchmark experiments
+> - Evaluated bias-variance trade-offs across traditional ML vs. LLM systems, producing interpretability benchmarks for model selection
+
+---
+
+**📊 Senior ML / Data Scientist** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+> - Built Python & SQL feature engineering pipelines for predictive analytics on financial datasets — reduced reporting time by **~25%**
+> - Improved enterprise data quality by **40%** through automated anomaly detection and statistical validation frameworks
+> - Delivered AI-ready datasets supporting ML model training across cross-functional engineering teams
+> - 🥇 Recognized as **Best Performer of the Month**
+
+---
+
+**⚙️ Data & Analytics Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+> - Engineered enterprise ETL pipelines using Python, SQL, SAP CPI & REST APIs across SAP S/4HANA environments serving millions of records
+> - Reduced recurring data issues by **45%** through automated monitoring and anomaly detection frameworks
+> - Led cross-border data migration initiatives with zero data loss across transformation and validation pipelines
+> - 🥇 Recipient of the **GoMax Award – Business Unit of the Year**
+
+---
+
+## 🎓 Education
+
+**📘 M.S. Data Science** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; GPA: **3.89** &nbsp;|&nbsp; *2024 – May 2026*
+> Coursework: Statistical Learning · Deep Learning · NLP · Big Data Analytics · Time-Series Analysis
+
+**📗 B.E. Electronics & Telecommunications** &nbsp;|&nbsp; University of Mumbai &nbsp;|&nbsp; *2016 – 2020*
 
 ---
 
@@ -45,6 +79,19 @@ Languages       │ Python · SQL · R · PySpark · Bash
 MLOps & Cloud   │ AWS (S3 · EC2 · SageMaker) · Docker · MLflow · FastAPI
 Visualization   │ Power BI · Tableau · Plotly Dash · Grad-CAM
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 ---
 
