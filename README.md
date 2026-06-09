@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer · Data Scientist · Builder of things that actually work in production</b><br/>
-  Jersey City, NJ &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute (GPA 3.89, May 2026)
+  Jersey City, NJ &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute (GPA - 3.82, May 2026)
 </p>
 
 <p align="center">
