@@ -24,14 +24,14 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 ## 💼 Experience
 
-**🔬 AI/ML Engineer – Research** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *May 2025 – Sep 2025*
+**🔬 AI/ML Engineer – Research Assistant** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *May 2025 – Sep 2025*
 > - Benchmarked regression, classification & LLM forecasting models on financial datasets — improved F1-score by **~12%** via cross-validated feature selection
 > - Built FAISS-based semantic search pipelines, improving retrieval precision by **~18%** across benchmark experiments
 > - Evaluated bias-variance trade-offs across traditional ML vs. LLM systems, producing interpretability benchmarks for model selection
 
 ---
 
-**📊 Senior ML / Data Scientist** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+**📊 Data Scientist** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
 > - Built Python & SQL feature engineering pipelines for predictive analytics on financial datasets — reduced reporting time by **~25%**
 > - Improved enterprise data quality by **40%** through automated anomaly detection and statistical validation frameworks
 > - Delivered AI-ready datasets supporting ML model training across cross-functional engineering teams
@@ -39,7 +39,7 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 ---
 
-**⚙️ Data & Analytics Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+**⚙️ Data Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
 > - Engineered enterprise ETL pipelines using Python, SQL, SAP CPI & REST APIs across SAP S/4HANA environments serving millions of records
 > - Reduced recurring data issues by **45%** through automated monitoring and anomaly detection frameworks
 > - Led cross-border data migration initiatives with zero data loss across transformation and validation pipelines
