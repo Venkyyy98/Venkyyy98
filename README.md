@@ -31,7 +31,7 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 ---
 
-**📊 Data Scientist** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+**📊 ML Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
 > - Built Python & SQL feature engineering pipelines for predictive analytics on financial datasets — reduced reporting time by **~25%**
 > - Improved enterprise data quality by **40%** through automated anomaly detection and statistical validation frameworks
 > - Delivered AI-ready datasets supporting ML model training across cross-functional engineering teams
