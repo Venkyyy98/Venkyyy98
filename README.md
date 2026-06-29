@@ -60,12 +60,12 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 | Project | What it does | Stack | Results |
 |---|---|---|---|
-| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe-LLM-Evaluation) | Adversarial LLM evaluation & RAG benchmarking framework | FAISS · LangChain · FastAPI · LLM-as-a-Judge | ↓22% hallucination · ↑18% context recall |
-| 🤖 [AI Resume Intelligence Platform](https://github.com/Venkyyy98/AI-Resume-Intelligence) | Agentic job application platform with ATS optimization | FastAPI · Next.js · LangChain · SQLite | ↑35% ATS match score |
+| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial LLM evaluation & RAG benchmarking framework | FAISS · LangChain · FastAPI · LLM-as-a-Judge | ↓22% hallucination · ↑18% context recall |
+| 🤖 [AI Resume Intelligence Platform](https://github.com/Venkyyy98/jobapply-copilot) | Agentic job application platform with ATS optimization | FastAPI · Next.js · LangChain · SQLite | ↑35% ATS match score |
 | 📈 [Financial Portfolio Prediction](https://github.com/Venkyyy98/Financial-Portfolio-Prediction) | NLP + Big Data trading signal generation | PySpark · FinBERT · GCP Dataproc · MLlib | F1: 0.82 |
 | 🫁 [Pneumonia Detection](https://github.com/Venkyyy98/Pneumonia-Detection-Project) | CNN + MobileNetV2 ensemble on chest X-rays | TensorFlow · Grad-CAM · Transfer Learning | 98.12% accuracy · 97.63% F1 |
 | 🤟 [Sign Language to Speech](https://github.com/Venkyyy98/sign-language-to-speech) | Real-time gesture recognition → speech pipeline | Bi-LSTM · MediaPipe · TensorFlow | 85.57% test accuracy |
-| 🔧 [SAP CPI Reliability Studio](https://github.com/Venkyyy98/SAP-CPI-Reliability-Studio) | ML-powered observability & failure forecasting | Isolation Forest · FastAPI · Plotly Dash | ↓3hr incident detection time |
+| 🔧 [SAP CPI Reliability Studio](https://github.com/Venkyyy98/cpi-log-analytics-dashboard) | ML-powered observability & failure forecasting | Isolation Forest · FastAPI · Plotly Dash | ↓3hr incident detection time |
 
 ---
 
