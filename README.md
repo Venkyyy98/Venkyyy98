@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Venkatesh Mudaliar 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Data Scientist · Builder of things that actually work in production</b><br/>
-  Jersey City, NJ &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.82, May 2026)
+  <b>SAP Integration & Data Engineer | SAP BTP / Integration Suite | Python · SQL · APIs · GenAI</b><br/>
+  San Francisco, CA &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.82, May 2026)
 </p>
 
 <p align="center">
@@ -16,32 +16,39 @@
 
 ## 🧠 What I do
 
-I build **end-to-end AI systems** — from clean data pipelines to production-grade LLM evaluation frameworks. My work sits at the intersection of applied ML, GenAI, and reliable software engineering.
+I build **enterprise integration, data, and AI systems**.
 
-I care about one thing most teams skip: **does it actually work reliably?** That question led me to build RagProbe — an adversarial evaluation framework for RAG systems. It's also why every project I ship includes quantified results, not just working code.
+I bring 4+ years of experience delivering SAP integrations across **SAP Integration Suite (CPI), PI/PO, S/4HANA, REST/OData APIs, IDocs, and enterprise applications**, combined with recent hands-on work in **Python, Data Engineering, GenAI, RAG, and agentic AI**.
+
+Recently, I've been exploring how these areas come together — including **AI-assisted SAP integration operations, multi-agent incident resolution, ML-powered integration observability, and governed AI tool execution**.
+
+My focus is reliability: secure integrations, observable pipelines, controlled automation, and AI systems whose outputs can actually be evaluated.
 
 ---
 
 ## 💼 Experience
 
-**🔬 AI/ML Engineer – Research Assistant** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *May 2025 – Sep 2025*
+**🔬 AI/ML Engineer – Research Assistant** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *Oct 2024 – May 2026*
 > - Benchmarked regression, classification & LLM forecasting models on financial datasets — improved F1-score by **~12%** via cross-validated feature selection
 > - Built FAISS-based semantic search pipelines, improving retrieval precision by **~18%** across benchmark experiments
 > - Evaluated bias-variance trade-offs across traditional ML vs. LLM systems, producing interpretability benchmarks for model selection
 
 ---
 
-**📊 ML Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
-> - Built Python & SQL feature engineering pipelines for predictive analytics on financial datasets — reduced reporting time by **~25%**
-> - Improved enterprise data quality by **40%** through automated anomaly detection and statistical validation frameworks
-> - Delivered AI-ready datasets supporting ML model training across cross-functional engineering teams
+**📊 SAP Integration Consultant / Data Integration Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+> - Partnered directly with ML engineering teams on production data validation, anomaly triage, and inference monitoring, keeping model
+outputs reliable in a live enterprise environment.
+> - Spearheaded a large-scale ERP migration, modernizing **50+ SAP integration interfaces** from legacy PI/PO middleware to SAP's cloud-
+native CPI platform, cutting data-processing time **30%**.
+> - Refactored **30+ legacy interfaces** into modular, reusable CPI pipelines, improving maintainability and driving a **30%** throughput gain.
 > - 🥇 Recognized as **Best Performer of the Month**
 
 ---
 
-**⚙️ Data Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+**⚙️ Consultant – SAP Integration & Data Engineering** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
 > - Engineered enterprise ETL pipelines using Python, SQL, SAP CPI & REST APIs across SAP S/4HANA environments serving millions of records
-> - Reduced recurring data issues by **45%** through automated monitoring and anomaly detection frameworks
+> - Led end-to-end automation of Sourcing and Procurement workflows in SAP S/4HANA Cloud, replacing manual processes and cutting manual
+intervention **60%**.
 > - Led cross-border data migration initiatives with zero data loss across transformation and validation pipelines
 > - 🥇 Recipient of the **GoMax Award – Business Unit of the Year**
 
@@ -49,8 +56,8 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 ## 🎓 Education
 
-**📘 M.S. Data Science** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; GPA: **3.89** &nbsp;|&nbsp; *2024 – May 2026*
-> Coursework: Statistical Learning · Deep Learning · NLP · Big Data Analytics · Time-Series Analysis
+**📘 M.S. Data Science** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; GPA: **3.82** &nbsp;|&nbsp; *Sep 2024 – May 2026*
+> Coursework: Statistical Learning · Deep Learning · NLP · Big Data Analytics · Time-Series Analysis· Machine Learning · Python · SQL
 
 **📗 B.E. Electronics & Telecommunications** &nbsp;|&nbsp; University of Mumbai &nbsp;|&nbsp; *2016 – 2020*
 
@@ -60,24 +67,31 @@ I care about one thing most teams skip: **does it actually work reliably?** That
 
 | Project | What it does | Stack | Results |
 |---|---|---|---|
-| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial LLM evaluation & RAG benchmarking framework | FAISS · LangChain · FastAPI · LLM-as-a-Judge | ↓22% hallucination · ↑18% context recall |
-| 🤖 [AI Resume Intelligence Platform](https://github.com/Venkyyy98/jobapply-copilot) | Agentic job application platform with ATS optimization | FastAPI · Next.js · LangChain · SQLite | ↑35% ATS match score |
-| 📈 [Financial Portfolio Prediction](https://github.com/Venkyyy98/Financial-Portfolio-Prediction) | NLP + Big Data trading signal generation | PySpark · FinBERT · GCP Dataproc · MLlib | F1: 0.82 |
-| 🫁 [Pneumonia Detection](https://github.com/Venkyyy98/Pneumonia-Detection-Project) | CNN + MobileNetV2 ensemble on chest X-rays | TensorFlow · Grad-CAM · Transfer Learning | 98.12% accuracy · 97.63% F1 |
-| 🤟 [Sign Language to Speech](https://github.com/Venkyyy98/sign-language-to-speech) | Real-time gesture recognition → speech pipeline | Bi-LSTM · MediaPipe · TensorFlow | 85.57% test accuracy |
-| 🔧 [SAP CPI Reliability Studio](https://github.com/Venkyyy98/cpi-log-analytics-dashboard) | ML-powered observability & failure forecasting | Isolation Forest · FastAPI · Plotly Dash | ↓3hr incident detection time |
+| 🤖 [SAP IntelliOps](https://github.com/Venkyyy98/sap-multiagent-incident-resolver) | Multi-agent SAP CPI incident diagnosis, remediation & governed execution system | LangGraph · RAG · FastAPI · SAP CPI OData · OAuth2 · ChromaDB | 100% incident taxonomy accuracy · escalation F1 1.00 on 20-case eval |
+| 🔧 [SAP CPI Reliability Studio](https://github.com/Venkyyy98/cpi-log-analytics-dashboard) | ML-powered CPI observability, anomaly detection & failure forecasting | Python · Isolation Forest · Prophet · FastAPI · Streamlit · SQL | Automated anomaly detection & predictive monitoring |
+| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial RAG evaluation and benchmarking framework | FAISS · LangChain · FastAPI · LLM-as-a-Judge | ↓22% hallucination · ↑18% context recall |
+| 📈 [Financial Portfolio Prediction](https://github.com/Venkyyy98/Financial-Portfolio-Prediction) | Distributed NLP-based financial prediction pipeline | PySpark · FinBERT · GCP Dataproc · MLlib | F1: 0.82 |
+| 🤟 [Sign Language to Speech](https://github.com/Venkyyy98/sign-language-to-speech) | Real-time gesture recognition and speech generation | Bi-LSTM · MediaPipe · TensorFlow | 85.57% test accuracy |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```
-GenAI / LLMs    │ LangChain · RAG · FAISS · Hugging Face · FinBERT · Embeddings · LLM-as-a-Judge
-ML / DL         │ PyTorch · TensorFlow · Scikit-learn · CNN · Bi-LSTM · MobileNet · MediaPipe
+Data Engineering  │ Python · SQL · PySpark · Spark · Databricks · Airflow · Snowflake
+                  │ ETL/ELT · Data Validation · REST APIs
+SAP Integration   │ Integration Suite (CPI) · PI/PO · S/4HANA · API Management · Event Mesh
+                  │ OData · IDoc · REST · SOAP · SFTP · Groovy · XSLT
+GenAI / LLMs    │ LangGraph · LangChain · RAG · ChromaDB · FAISS · Embeddings
+                  │ Tool Calling · LLM Evaluation · Human-in-the-Loop
+ML / NLP          │ Scikit-learn · PyTorch · TensorFlow · Hugging Face · FinBERT
+SAP Integration   │ Integration Suite (CPI) · PI/PO · S/4HANA · API Management · Event Mesh
+                  │ OData · IDoc · REST · SOAP · SFTP · Groovy · XSLT
 Big Data        │ PySpark · Spark MLlib · GCP Dataproc · Databricks · Airflow · Snowflake
 Languages       │ Python · SQL · R · PySpark · Bash
 MLOps & Cloud   │ AWS (S3 · EC2 · SageMaker) · Docker · MLflow · FastAPI
 Visualization   │ Power BI · Tableau · Plotly Dash · Grad-CAM
+Security          │ OAuth2 · mTLS · Principal Propagation · SAML · API Security
 ```
 
 <p align="center">
@@ -97,10 +111,11 @@ Visualization   │ Power BI · Tableau · Plotly Dash · Grad-CAM
 
 ## 📜 Certifications
 
-- 🏅 **AWS Certified AI Practitioner** — Amazon Web Services *(Sep 2025 – Sep 2028)*
-- 🏅 **IBM Data Science Professional Certificate** — IBM / Coursera *(Aug 2025)*
-- 🏅 **Databricks Generative AI Fundamentals** — Databricks *(Jun 2025 – Jun 2027)*
-- 🏅 **AWS Databricks Platform Architect** — Databricks *(Jun 2025 – Jun 2027)*
+- 🏅 **SAP Integration Suite Certification** — SAP
+- 🏅 **SAP Integration Suite Black Belt** — SAP
+- 🏅 **AWS Certified AI Practitioner** — Amazon Web Services *(2025 – 2028)*
+- 🏅 **Databricks Generative AI Fundamentals** — Databricks
+- 🏅 **IBM Data Science Professional Certificate** — IBM / Coursera
 
 ---
 
@@ -122,6 +137,9 @@ Visualization   │ Power BI · Tableau · Plotly Dash · Grad-CAM
 
 ## 📬 Let's connect
 
-I'm actively looking for **AI/ML Engineer** and **Data Scientist** roles. If you're building something interesting in the GenAI, LLM evaluation, or applied ML space — reach out.
+I'm currently exploring opportunities across **SAP Integration / SAP BTP, Data Engineering, and Enterprise AI/GenAI Engineering**, particularly roles where integration, data, APIs, and intelligent automation come together.
+
+I'm especially interested in problems involving **SAP Integration Suite, enterprise data pipelines, agentic AI, RAG, AI-assisted operations, and reliable production automation**.
 
 **venkyc21998@gmail.com · [LinkedIn](https://www.linkedin.com/in/venkateshcmudaliar)**
+
