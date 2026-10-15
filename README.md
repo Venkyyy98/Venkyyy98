@@ -31,7 +31,7 @@ My background in **SAP Integration Suite, S/4HANA, APIs, and enterprise systems*
 | Project | What it does | Stack | Results |
 |---|---|---|---|
 | 🤖 [SAP IntelliOps](https://github.com/Venkyyy98/sap-multiagent-incident-resolver) | Agentic incident-resolution system with multi-step diagnosis, RAG, governed tool execution & human approval | LangGraph · RAG · FastAPI · Tool Calling · SAP APIs · ChromaDB | 20-case evaluation; see repository for methodology and results |
-| 💻 **JobApply Copilot** | Built and deployed an AI-powered job application platform with resume tailoring, authentication, and application tracking | Next.js · TypeScript · FastAPI · PostgreSQL · Google OAuth · OpenAI | End-to-end full-stack application; demo link to be added |
+| 💻 [JobApply Copilot](https://github.com/Venkyyy98/jobapply-copilot) ([Live App](https://jobapply-copilot-web.onrender.com/app/jobs)) | Built and deployed an AI-powered job application platform with resume tailoring, authentication, and application tracking | Next.js · TypeScript · FastAPI · PostgreSQL · Google OAuth · OpenAI | [Live application](https://jobapply-copilot-web.onrender.com/app/jobs) |
 | 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial evaluation framework for testing RAG reliability, retrieval quality & hallucinations | FAISS · LangChain · FastAPI · LLM-as-a-Judge | RAG evaluation framework; see repository for benchmarks |
 | 🧠 [Autonomous Agent](https://github.com/Venkyyy98/autonomous-agent) | Cloud-native autonomous AI agent with tool-driven workflows and persistent state | AWS Bedrock · Lambda · DynamoDB · API Gateway · CDK | End-to-end serverless agent architecture |
 | 📈 [Financial Portfolio Prediction](https://github.com/Venkyyy98/Financial-Portfolio-Prediction) | Distributed NLP/ML pipeline for financial prediction using transformer-based sentiment signals | PySpark · FinBERT · GCP Dataproc · MLlib | F1: 0.82 |
@@ -88,7 +88,7 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ---
 
-**📊 Enterprise Integration Engineering** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+**📊 Software Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
 > - Engineered and migrated **50+ production integrations** from SAP PI/PO to SAP Integration Suite, improving processing performance by **~30%**
 > - Built API-driven data workflows connecting SAP S/4HANA with enterprise platforms using REST, OData, IDoc, and cloud integration services
 > - Developed reusable integration pipelines with automated retries, monitoring, error handling, and secure authentication using OAuth2 and mTLS
@@ -96,7 +96,7 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ---
 
-**⚙️ Enterprise Integration & Automation** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+**⚙️ Software Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
 > - Built enterprise data and integration workflows using **Python, SQL, SAP integration technologies, and REST APIs**
 > - Automated sourcing and procurement data workflows across SAP S/4HANA environments, reducing manual intervention by **~50%**
 > - Built analytics and automation solutions for integration monitoring and troubleshooting, reducing investigation time by **~45%**
