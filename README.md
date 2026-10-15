@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Venkatesh Mudaliar 👋</h1>
 
 <p align="center">
-  <b>AI & Data Engineer | LLM Agents · RAG · Python · SQL · Backend Systems | 4+ Years Production Engineering</b><br/>
+  <b>Software Engineer | Backend · Full-Stack · Applied AI | Python · FastAPI · TypeScript · LangGraph | 4+ Years Enterprise Engineering</b><br/>
   San Francisco, CA &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.82, May 2026)
 </p>
 
@@ -16,11 +16,11 @@
 
 ## 🧠 What I do
 
-I build **AI, data, and backend systems designed to work reliably in production**.
+I build **backend systems, full-stack applications, and applied AI tools** that connect to real-world workflows.
 
-My recent work focuses on **LLM agents, RAG, tool calling, MCP, AI evaluation, and governed automation**, backed by 4+ years of experience building production data pipelines, APIs, and enterprise integration systems.
+I bring **4+ years of professional enterprise integration engineering**—APIs, authentication, data transformation, monitoring, and production troubleshooting—alongside recent hands-on work with **FastAPI, Next.js, PostgreSQL, LLM agents, RAG, MCP, and AI evaluation**.
 
-I'm particularly interested in **agent reliability, deterministic tool execution, data pipelines, observability, and turning AI prototypes into dependable products**.
+My focus is **shipping useful software**: reliable backend services, end-to-end AI products, agent tooling, and evaluation-driven development.
 
 My background in **SAP Integration Suite, S/4HANA, APIs, and enterprise systems** gives me hands-on experience with the reliability, security, and integration challenges that arise when software interacts with real production environments.
 
@@ -30,10 +30,10 @@ My background in **SAP Integration Suite, S/4HANA, APIs, and enterprise systems*
 
 | Project | What it does | Stack | Results |
 |---|---|---|---|
-| 🤖 [SAP IntelliOps](https://github.com/Venkyyy98/sap-multiagent-incident-resolver) | Agentic incident-resolution system with multi-step diagnosis, RAG, governed tool execution & human approval | LangGraph · RAG · FastAPI · Tool Calling · SAP APIs · ChromaDB | 100% incident taxonomy accuracy · escalation F1 1.00 on 20-case eval |
-| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial evaluation framework for testing RAG reliability, retrieval quality & hallucinations | FAISS · LangChain · FastAPI · LLM-as-a-Judge | ↓22% hallucination · ↑18% context recall |
+| 🤖 [SAP IntelliOps](https://github.com/Venkyyy98/sap-multiagent-incident-resolver) | Agentic incident-resolution system with multi-step diagnosis, RAG, governed tool execution & human approval | LangGraph · RAG · FastAPI · Tool Calling · SAP APIs · ChromaDB | 20-case evaluation; see repository for methodology and results |
+| 💻 **JobApply Copilot** | Built and deployed an AI-powered job application platform with resume tailoring, authentication, and application tracking | Next.js · TypeScript · FastAPI · PostgreSQL · Google OAuth · OpenAI | End-to-end full-stack application; demo link to be added |
+| 🔍 [RagProbe](https://github.com/Venkyyy98/RagProbe) | Adversarial evaluation framework for testing RAG reliability, retrieval quality & hallucinations | FAISS · LangChain · FastAPI · LLM-as-a-Judge | RAG evaluation framework; see repository for benchmarks |
 | 🧠 [Autonomous Agent](https://github.com/Venkyyy98/autonomous-agent) | Cloud-native autonomous AI agent with tool-driven workflows and persistent state | AWS Bedrock · Lambda · DynamoDB · API Gateway · CDK | End-to-end serverless agent architecture |
-| 🤟 [Sign Language to Speech](https://github.com/Venkyyy98/sign-language-to-speech) | Deep-learning system translating sign-language gestures into speech | Bi-LSTM · MediaPipe · TensorFlow | 85.57% test accuracy |
 | 📈 [Financial Portfolio Prediction](https://github.com/Venkyyy98/Financial-Portfolio-Prediction) | Distributed NLP/ML pipeline for financial prediction using transformer-based sentiment signals | PySpark · FinBERT · GCP Dataproc · MLlib | F1: 0.82 |
 
 ---
@@ -47,10 +47,12 @@ AI / Agents      │ LLMs · LangGraph · LangChain · RAG · Tool Calling · MC
 ML / NLP         │ PyTorch · TensorFlow · Scikit-learn · Hugging Face · FinBERT
                  │ Deep Learning · NLP · Time Series
 
-Data / Backend   │ Python · SQL · PySpark · Spark · FastAPI · REST APIs
-                 │ ETL/ELT · Data Validation · Airflow · Snowflake · Databricks
+Backend / Web    │ Python · SQL · FastAPI · REST APIs · TypeScript · React · Next.js
+                 │ PostgreSQL · SQLAlchemy · OAuth2 · API Integrations
 
-Cloud / MLOps    │ AWS · GCP · Docker · MLflow · SageMaker · GCP Dataproc
+Data / ML        │ PySpark · Spark · ETL/ELT · Data Validation · FinBERT
+
+Cloud / Tools    │ AWS · GCP · Docker · GCP Dataproc · Git
 
 Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
                  │ OData · IDoc · REST · SOAP · OAuth2 · mTLS
@@ -79,14 +81,14 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ---
 
-**🔬 AI/ML Engineer – Research Assistant** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *Oct 2024 – May 2026*
-> - Benchmarked regression, classification & LLM forecasting models on financial datasets — improved F1-score by **~12%** via cross-validated feature selection
-> - Built FAISS-based semantic search pipelines, improving retrieval precision by **~18%** across benchmark experiments
-> - Evaluated bias-variance trade-offs across traditional ML vs. LLM systems, producing interpretability benchmarks for model selection
+**🔬 Research Assistant — AI/ML** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *2025 (exact appointment dates to confirm)*
+> - Explored LLM-based predictive modeling and atomic-reasoning features alongside logistic regression baselines
+> - Evaluated model performance using F1, AUC, and SHAP interpretability analyses
+> - Investigated multimodal LLM approaches to financial portfolio optimization and backtesting
 
 ---
 
-**📊 Data Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+**📊 Enterprise Integration Engineering** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
 > - Engineered and migrated **50+ production integrations** from SAP PI/PO to SAP Integration Suite, improving processing performance by **~30%**
 > - Built API-driven data workflows connecting SAP S/4HANA with enterprise platforms using REST, OData, IDoc, and cloud integration services
 > - Developed reusable integration pipelines with automated retries, monitoring, error handling, and secure authentication using OAuth2 and mTLS
@@ -94,7 +96,7 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ---
 
-**⚙️ Data Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+**⚙️ Enterprise Integration & Automation** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
 > - Built enterprise data and integration workflows using **Python, SQL, SAP integration technologies, and REST APIs**
 > - Automated sourcing and procurement data workflows across SAP S/4HANA environments, reducing manual intervention by **~50%**
 > - Built analytics and automation solutions for integration monitoring and troubleshooting, reducing investigation time by **~45%**
@@ -131,9 +133,9 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ## 📬 Let's Connect
 
-I'm currently exploring **AI Engineer, Applied AI, Machine Learning Engineer, and Data Engineer** opportunities where I can build and ship production AI and data systems.
+I'm exploring **Backend Software Engineer, Full-Stack Engineer, Forward Deployed Engineer, AI Product Engineer, Applied AI Engineer, and Data Engineer** opportunities.
 
-I'm particularly interested in **LLM agents, RAG, AI evaluation, data pipelines, backend systems, tool calling, and reliable production automation**.
+I'm especially interested in **backend APIs, full-stack products, enterprise integrations, agentic AI, RAG, evaluation, and reliable automation**.
 
 I'm based in **San Francisco** and always interested in meeting engineers, founders, and teams building ambitious AI products.
 
