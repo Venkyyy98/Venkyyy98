@@ -142,11 +142,10 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
 
 ## 📬 Let's Connect
 
-I'm exploring **Backend Software Engineer, Full-Stack Engineer, Forward Deployed Engineer, AI Product Engineer, Applied AI Engineer, and Data Engineer** opportunities.
+I'm exploring **AI Engineer, Backend Software Engineer, and Full-Stack Engineer** opportunities, especially roles involving **autonomous AI agents, production APIs, and end-to-end AI products**.
 
-I'm especially interested in **backend APIs, full-stack products, enterprise integrations, agentic AI, RAG, evaluation, and reliable automation**.
+I'm passionate about building **reliable software, intelligent automation, and AI systems** that solve real-world problems.
 
-I'm based in **San Francisco** and always interested in meeting engineers, founders, and teams building ambitious AI products.
+I'm based in **San Francisco** and always interested in connecting with engineers, founders, and teams building ambitious products.
 
 📧 **venkyc21998@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/venkateshcmudaliar)
-
