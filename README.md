@@ -26,6 +26,47 @@ My background in **SAP Integration Suite, S/4HANA, APIs, and enterprise systems*
 
 ---
 
+## 💼 Experience
+
+**🤖 AI Engineer** &nbsp;|&nbsp; Marketeq Digital &nbsp;|&nbsp; *Oct 2026 – Present*
+> - Design and build autonomous AI agents for Marketeq's Lead IQ growth platform (27 FastAPI microservices), owning both product and technical decisions for each agent
+> - Built a **Campaign Building agent** that turns a business goal into a complete cold-email campaign (audience, 4-email reply-aware sequence, AI-personalized openers, schedule) using the same APIs as the human workflow builder
+> - Implemented **tiered autonomy with guardrails**: confidence-gated actions, AI-orchestrator or human approval, and pre-launch safety checks (sender domain, AI key, sending limits, audience overlap) re-verified before every launch
+> - Hardened **LLM output in production** by fixing leaked template tags, blocking question-style replies, failing safe when the AI step errors, and migrating off a retired Groq model
+> - Built multi-tenant **sender-domain verification** (MX/SPF/DKIM/DMARC) with a provider-agnostic, customer-facing setup guide covering 20+ DNS providers
+> - Built the **Source Discovery agent** and integrated agents across a shared tool layer with another engineer's scoring agent; 400+ automated tests passing in CI
+
+**🎮 Software Engineer** &nbsp;|&nbsp; Easley Dunn Productions Inc. &nbsp;|&nbsp; *2026 – Present*
+> - Develop and implement gameplay systems and product features using **Unity and C#** for an interactive sports simulation platform
+> - Build data-driven game systems spanning management workflows, player/coach attributes, progression, and interactive UI features
+> - Collaborate with the technical team to translate product requirements into working features, debug existing systems, and improve application behavior
+
+---
+
+**🔬 Research Assistant — AI/ML** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *2025 (exact appointment dates to confirm)*
+> - Explored LLM-based predictive modeling and atomic-reasoning features alongside logistic regression baselines
+> - Evaluated model performance using F1, AUC, and SHAP interpretability analyses
+> - Investigated multimodal LLM approaches to financial portfolio optimization and backtesting
+
+---
+
+**📊 Software Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
+> - Engineered and migrated **50+ production integrations** from SAP PI/PO to SAP Integration Suite, improving processing performance by **~30%**
+> - Built API-driven data workflows connecting SAP S/4HANA with enterprise platforms using REST, OData, IDoc, and cloud integration services
+> - Developed reusable integration pipelines with automated retries, monitoring, error handling, and secure authentication using OAuth2 and mTLS
+> - 🥇 Recognized as **Best Performer of the Month**
+
+---
+
+**⚙️ Software Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
+> - Built enterprise data and integration workflows using **Python, SQL, SAP integration technologies, and REST APIs**
+> - Automated sourcing and procurement data workflows across SAP S/4HANA environments, reducing manual intervention by **~50%**
+> - Built analytics and automation solutions for integration monitoring and troubleshooting, reducing investigation time by **~45%**
+> - 🥇 Recipient of the **GoMax Award – Business Unit of the Year**
+
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack | Results |
@@ -69,39 +110,6 @@ Enterprise       │ SAP Integration Suite · S/4HANA · PI/PO · API Management
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
-
----
-
-## 💼 Experience
-
-**🎮 Software Engineer** &nbsp;|&nbsp; Easley Dunn Productions Inc. &nbsp;|&nbsp; *2026 – Present*
-> - Develop and implement gameplay systems and product features using **Unity and C#** for an interactive sports simulation platform
-> - Build data-driven game systems spanning management workflows, player/coach attributes, progression, and interactive UI features
-> - Collaborate with the technical team to translate product requirements into working features, debug existing systems, and improve application behavior
-
----
-
-**🔬 Research Assistant — AI/ML** &nbsp;|&nbsp; Stevens Institute of Technology, Hoboken NJ &nbsp;|&nbsp; *2025 (exact appointment dates to confirm)*
-> - Explored LLM-based predictive modeling and atomic-reasoning features alongside logistic regression baselines
-> - Evaluated model performance using F1, AUC, and SHAP interpretability analyses
-> - Investigated multimodal LLM approaches to financial portfolio optimization and backtesting
-
----
-
-**📊 Software Engineer** &nbsp;|&nbsp; Accenture &nbsp;|&nbsp; *Feb 2023 – Sep 2024*
-> - Engineered and migrated **50+ production integrations** from SAP PI/PO to SAP Integration Suite, improving processing performance by **~30%**
-> - Built API-driven data workflows connecting SAP S/4HANA with enterprise platforms using REST, OData, IDoc, and cloud integration services
-> - Developed reusable integration pipelines with automated retries, monitoring, error handling, and secure authentication using OAuth2 and mTLS
-> - 🥇 Recognized as **Best Performer of the Month**
-
----
-
-**⚙️ Software Engineer** &nbsp;|&nbsp; LTIMindtree Ltd. &nbsp;|&nbsp; *Sep 2020 – Feb 2023*
-> - Built enterprise data and integration workflows using **Python, SQL, SAP integration technologies, and REST APIs**
-> - Automated sourcing and procurement data workflows across SAP S/4HANA environments, reducing manual intervention by **~50%**
-> - Built analytics and automation solutions for integration monitoring and troubleshooting, reducing investigation time by **~45%**
-> - 🥇 Recipient of the **GoMax Award – Business Unit of the Year**
-
 ---
 
 ## 🎓 Education
