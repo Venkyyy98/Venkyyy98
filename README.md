@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Venkatesh Mudaliar 👋</h1>
 
 <p align="center">
-  <b>AI Engineer | Building Autonomous AI Agents, Backend Systems & Full-Stack Products | Python • FastAPI • TypeScript • Next.js • PostgreSQL • LLM Agents • RAG • MCP | 5+ Years Enterprise Engineering</b><br/>
+  <b>AI Engineer | Building Autonomous AI Agents & Full-Stack Products</b><br/>
+  Python • FastAPI • TypeScript • Next.js • PostgreSQL<br/>
   San Francisco, CA &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.82, May 2026)
 </p>
 
