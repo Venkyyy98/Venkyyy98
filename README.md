@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Venkatesh Mudaliar 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend · Full-Stack · Applied AI | Python · FastAPI · TypeScript · LangGraph | 4+ Years Enterprise Engineering</b><br/>
+  <b>AI Engineer | Building Autonomous AI Agents, Backend Systems & Full-Stack Products | Python • FastAPI • TypeScript • Next.js • PostgreSQL • LLM Agents • RAG • MCP | 5+ Years Enterprise Engineering</b><br/>
   San Francisco, CA &nbsp;|&nbsp; M.S. Data Science @ Stevens Institute of Technology (GPA 3.82, May 2026)
 </p>
 
@@ -18,7 +18,7 @@
 
 I build **backend systems, full-stack applications, and applied AI tools** that connect to real-world workflows.
 
-I bring **6+ years of professional experience**—APIs, authentication, data transformation, monitoring, and production troubleshooting—alongside recent hands-on work with **FastAPI, Next.js, PostgreSQL, LLM agents, RAG, MCP, and AI evaluation**. At **Marketeq**, I build **autonomous AI agents with human-in-the-loop guardrails** that plan, act, and pass safety checks before taking real actions.
+I bring **5+ years of professional experience**—APIs, authentication, data transformation, monitoring, and production troubleshooting—alongside recent hands-on work with **FastAPI, Next.js, PostgreSQL, LLM agents, RAG, MCP, and AI evaluation**. At **Marketeq**, I build **autonomous AI agents with human-in-the-loop guardrails** that plan, act, and pass safety checks before taking real actions.
 
 My focus is **shipping useful software**: reliable backend services, end-to-end AI products, agent tooling, and evaluation-driven development.
 
